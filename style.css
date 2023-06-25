@@ -279,4 +279,22 @@ footer .linha2 a:hover{
     .checkboxItens label{
         font-size: 15px;
     }
+    
+    /* RODAPÉ */
+
+    footer{
+        background-color: var(--azul-dnc);
+    }
+    footer .linha1{
+        flex-direction: column;
+    }
+    footer .endereço{
+        width: 95%;
+        margin-top: 20px;
+    }
+    footer .linha2 a{
+        justify-content: center;
+        align-items: center;
+        font-size: 18px;
+    }
 }
