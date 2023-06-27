@@ -284,6 +284,7 @@ footer .linha2 a:hover{
 
     footer{
         background-color: var(--azul-dnc);
+        height: auto;
     }
     footer .linha1{
         flex-direction: column;
